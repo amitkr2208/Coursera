@@ -1,0 +1,39 @@
+.nav{
+    align-items: center;
+}
+.form{
+    align-content: center;
+    size-adjust:40px;
+}
+/*.container{
+    image-resolution:1600*265;
+    height: 1600px;
+    width: 265px;
+}*/
+#carousel{
+    height: 1600px;
+    width: 265px;
+}
+.img{
+   height: 50%;
+   width: 100px;
+}
+.container{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    left: 1px;
+   margin-left: 1px;
+   margin-top: auto;
+   padding-left: 0%;
+}
+.carousel {
+    margin-top: 200px;
+    width:1286px;
+    height:10px;
+  }
+  .carousel-inner > .item > img {
+    width:1286px;
+    height:200px;
+  }

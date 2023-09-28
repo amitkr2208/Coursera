@@ -20,6 +20,8 @@
     width:300px;
     flex-direction: column;
     align-items: center; 
+    font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
 }
 .box{
     padding: 12px;
@@ -28,9 +30,11 @@
 
 }
 .form h2{
-    font-family: 'Source Code Pro', monospace;
+    /*font-family: 'Source Code Pro', monospace;*/
     font-size:40PX;
     text-decoration-color: blue;
+    font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
 }
 #submit{
     padding: 12px;
@@ -40,6 +44,8 @@
     background-color:rgb(26, 57, 197);
     border-radius: 20px;
     align-items: center;
+    font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
 
 }
 body{
@@ -49,8 +55,22 @@ body{
 }
 .form h4{
     color: rgb(177, 177, 7);
+    font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
 }
 #submit:hover{
    cursor: pointer;
    background-color:green;
+   font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
+}
+.container1{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    left: 1px;
+   margin-left: 0px;
+   margin-top: auto;
+   padding-left: 0%;
 }

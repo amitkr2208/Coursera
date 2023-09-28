@@ -1,0 +1,35 @@
+body{
+    background-image: url("Aboutus.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+
+
+}
+h2{
+    color:white;
+    font-family: 'Rubik Maze', cursive;
+font-family: 'Skranji', cursive;
+text-align:center;
+
+}
+h1{
+    text-align: center;
+    color:blueviolet;
+}
+h2,b{
+    color:rgb(253, 253, 253);
+}
+.container{
+    display: flex;
+    height: 100px;
+    width: 100px;
+    position:absolute;
+    left: 1px;
+   margin-left: 0px;
+   margin-top: auto;
+   padding-left: 0%;
+}
+p{
+    color:yellow;
+}
